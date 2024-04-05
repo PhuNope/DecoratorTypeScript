@@ -1,0 +1,10 @@
+{
+  "name": "DecoratorTypeScript",
+  "uuid": "c361cf22-c45c-4f6c-bbc3-46cc6c8b6e75",
+  "creator": {
+    "version": "3.8.2"
+  },
+  "dependencies": {
+    "reflect-metadata": "^0.2.2"
+  }
+}
